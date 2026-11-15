@@ -1,112 +1,223 @@
-# Hi, I'm [ElSabbah Ahmed] 👋
-
+# [ElSabbah Ahmed]
 ### Software Development & Data Analytics Consultant
-**ASP.NET Core | C# | SQL Server | Business Intelligence | Enterprise Applications | Health Informatics**
 
-I am a software developer and data analytics consultant passionate about building practical digital solutions that help organizations manage information, streamline operations, and make better decisions.
+**Engineering Enterprise Applications. Transforming Data into Decisions.**
 
-My work combines software engineering, database design, data analytics, and information systems development, with a particular interest in public health informatics and enterprise information management systems.
+I specialize in designing and developing scalable software solutions, enterprise information systems, database architectures, and analytical platforms that help organizations improve operational efficiency and make informed decisions.
+
+My approach combines software engineering, data management, business intelligence, and practical understanding of complex organizational workflows.
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-2D75B9?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## PROFESSIONAL PROFILE
 
-- 💻 Specialized in developing enterprise web applications using **ASP.NET Core MVC and C#**.
-- 🗄️ Experienced in Microsoft SQL Server, database architecture, and query optimization.
-- 📊 Interested in building interactive dashboards, KPI monitoring systems, and analytical reports.
-- 🔄 Focused on workflow automation, system integration, and centralized information platforms.
-- 🏥 Interested in public health informatics, epidemiological surveillance, and health information systems.
-- 🌍 Open to remote collaboration and software development projects worldwide.
+I focus on translating complex business and operational requirements into reliable, maintainable, and user-friendly digital solutions.
+
+My technical interests and professional focus include:
+
+- Enterprise web application architecture and development.
+- Relational database design and SQL Server optimization.
+- Data analytics, reporting, and business intelligence.
+- Centralized information management systems.
+- Workflow automation and operational management.
+- Public health informatics and epidemiological surveillance systems.
+
+I am particularly interested in solutions where software engineering and data analytics come together to solve real-world organizational challenges.
 
 ---
 
-## 🛠️ Technology Stack
+## CORE TECHNICAL EXPERTISE
 
-### Backend Development
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Backend Engineering
+- C#
+- ASP.NET Core MVC
+- Entity Framework Core
+- RESTful APIs
+- Enterprise Application Architecture
+- Authentication & Authorization
+
+</td>
+<td width="50%" valign="top">
 
 ### Database Engineering
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+- Microsoft SQL Server
+- T-SQL
+- Database Architecture
+- Stored Procedures
+- Query Optimization
+- Data Integration
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- RTL Interfaces
+- Interactive Dashboards
 
-### Tools & Practices
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
----
+### Data & Information Systems
+- Business Intelligence
+- KPI Monitoring
+- Analytical Reporting
+- Data Visualization
+- Workflow Management
+- Decision Support Systems
 
-## 💡 Areas of Expertise
-
-| Area | Focus |
-|---|---|
-| Software Development | Custom ASP.NET Core MVC applications |
-| Database Engineering | SQL Server, T-SQL, optimization |
-| Business Intelligence | Dashboards, KPIs, analytical reporting |
-| Enterprise Systems | Centralized information management |
-| Workflow Automation | Digital workflows and system integration |
-| Health Informatics | Surveillance and public health information systems |
-
----
-
-## 🌟 Featured Projects
-
-The following are areas of application development that I am interested in showcasing through independent demonstrations and portfolio projects.
-
-### 1. Public Health Surveillance Platform
-A demonstration platform for managing surveillance reports, monitoring epidemiological trends, and supporting public health decision-making.
-
-**Technologies:** ASP.NET Core MVC, SQL Server, EF Core, JavaScript.
-
-### 2. Emergency Operations Management System
-A demonstration of an operations management platform for event tracking, risk assessment, response coordination, and situation reporting.
-
-**Technologies:** ASP.NET Core MVC, SQL Server, Dashboard Development.
-
-### 3. Strategic Planning & Performance Management
-A web-based concept for managing strategic objectives, activities, performance indicators, targets, and actual achievements.
-
-**Technologies:** ASP.NET Core MVC, SQL Server, Data Visualization.
-
-> These descriptions represent portfolio project concepts and independent demonstrations. They do not imply that confidential institutional systems or data are publicly available.
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 What I'm Currently Focused On
+## SELECTED SOLUTION DOMAINS
 
-- Developing scalable ASP.NET Core enterprise applications.
-- Building advanced SQL Server reporting and analytics solutions.
-- Designing modern data-driven dashboards.
-- Exploring AI-assisted software development and intelligent information systems.
-- Creating reusable solutions for business and public health applications.
+### 01 — Enterprise Information Systems
 
----
+Designing centralized platforms for managing organizational information, business processes, user permissions, and operational workflows.
 
-## 🤝 Let's Connect
+### 02 — Data Analytics & Business Intelligence
 
-I am open to discussing software development, database engineering, dashboard development, and data analytics projects.
+Building analytical dashboards, reporting solutions, performance indicators, and data-driven tools that transform operational data into actionable insights.
 
-- **LinkedIn:** [Add Your LinkedIn URL](https://www.linkedin.com/)
-- **Portfolio:** Coming Soon
-- **Email:** [Add Your Professional Email]
+### 03 — Public Health Informatics
 
----
+Developing independent demonstration concepts for epidemiological surveillance, infectious disease monitoring, event-based surveillance, and public health decision support.
 
-### 🇪🇬 نبذة باللغة العربية
+### 04 — Operations & Performance Management
 
-متخصص في تطوير البرمجيات وتحليل البيانات، مع التركيز على بناء تطبيقات الويب المؤسسية باستخدام ASP.NET Core MVC وC#، وتصميم وإدارة قواعد بيانات SQL Server، وتطوير لوحات المعلومات ومؤشرات الأداء.
-
-أهتم بتطوير نظم المعلومات المركزية، وأتمتة الإجراءات، ونظم المعلومات الصحية والترصد الوبائي، وتحويل احتياجات المؤسسات إلى حلول رقمية عملية تساعد على تحسين الأداء ودعم اتخاذ القرار.
-
-**متاح للتعاون في مشروعات تطوير البرمجيات وتحليل البيانات عن بُعد داخل مصر وخارجها.**
+Designing digital platforms for event management, response coordination, strategic planning, performance monitoring, and operational reporting.
 
 ---
 
-⭐ *Building practical software solutions through technology and data.*
+## FEATURED PORTFOLIO
+
+The following projects represent independent demonstration concepts that showcase my technical capabilities and approach to solving complex information-management challenges.
+
+### 01. Public Health Surveillance Platform
+
+A centralized surveillance platform concept designed to support disease reporting, epidemiological monitoring, geographical analysis, and surveillance dashboards.
+
+**Key capabilities**
+- Disease and case reporting.
+- Epidemiological indicators and trend analysis.
+- Geographic and temporal monitoring.
+- Centralized dashboards and analytical reports.
+
+**Technology:** ASP.NET Core MVC · C# · SQL Server · Entity Framework Core
+
+### 02. Public Health Emergency Operations Management
+
+An operations management platform concept designed to support the lifecycle of public health events, from verification and risk assessment to response coordination and closure.
+
+**Key capabilities**
+- Event lifecycle management.
+- Risk assessment and prioritization.
+- Response team coordination.
+- Operational dashboards and situation reports.
+
+**Technology:** ASP.NET Core MVC · SQL Server · JavaScript
+
+### 03. Strategic Planning & Performance Management
+
+A performance management platform concept for connecting strategic objectives with operational activities, performance indicators, targets, and actual achievements.
+
+**Key capabilities**
+- Strategic and operational planning.
+- Objectives and activity management.
+- KPI and target monitoring.
+- Performance and budget tracking.
+
+**Technology:** ASP.NET Core MVC · SQL Server · EF Core
+
+> Project concepts are intended for independent portfolio demonstrations. No confidential institutional information, private datasets, or restricted production systems are included.
+
+---
+
+## TECHNOLOGY TOOLKIT
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,js,html,css,git,github&perline=9" />
+</p>
+
+**Database:** Microsoft SQL Server · T-SQL
+
+**Frameworks:** ASP.NET Core MVC · Entity Framework Core
+
+**Development Practices:** Layered Architecture · Database-Driven Applications · Role-Based Access Control · Responsive Design
+
+---
+
+## CURRENT PROFESSIONAL INTERESTS
+
+- Scalable enterprise application development.
+- Advanced SQL Server engineering and performance optimization.
+- Modern analytical dashboards and reporting platforms.
+- AI-assisted software engineering.
+- Intelligent information management and decision-support systems.
+- Digital transformation of complex organizational workflows.
+
+---
+
+## PROFESSIONAL COLLABORATION
+
+I welcome opportunities to collaborate with organizations, businesses, and development teams on projects involving:
+
+- Custom web application development.
+- SQL Server database design and optimization.
+- Business intelligence and analytical dashboards.
+- Enterprise information management.
+- Workflow automation and system integration.
+
+**Engagement:** Remote collaboration · Egypt & International Markets
+
+<p align="center">
+  <strong>Have a project or a technical challenge?</strong>
+  <br/>
+  Let's discuss how technology and data can create practical value.
+  <br/><br/>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/GET%20IN%20TOUCH-2D75B9?style=for-the-badge&logo=minutemailer&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## نبذة مهنية باللغة العربية
+
+متخصص في تطوير البرمجيات وتحليل البيانات، مع التركيز على تصميم وتطوير التطبيقات المؤسسية باستخدام ASP.NET Core MVC وC#، وهندسة قواعد بيانات Microsoft SQL Server، وبناء لوحات المعلومات التحليلية ونظم إدارة المعلومات.
+
+أهتم بتطوير الحلول الرقمية التي تساعد المؤسسات على تحسين كفاءة العمليات، وإدارة البيانات بصورة مركزية، وأتمتة الإجراءات، ومتابعة مؤشرات الأداء، ودعم اتخاذ القرار.
+
+كما أمتلك اهتماماً تطبيقياً بمجال نظم المعلومات الصحية والترصد الوبائي وإدارة أحداث الصحة العامة.
+
+**مجالات التعاون:** تطوير التطبيقات، قواعد البيانات، لوحات المعلومات، نظم المعلومات المؤسسية، وتحليل البيانات.
+
+---
+
+<p align="center">
+  <i>Building reliable systems. Connecting data. Enabling better decisions.</i>
+</p>
