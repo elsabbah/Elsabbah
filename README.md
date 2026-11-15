@@ -8,7 +8,7 @@ I specialize in designing and developing scalable software solutions, enterprise
 My approach combines software engineering, data management, business intelligence, and practical understanding of complex organizational workflows.
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/elsabbah">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="YOUR_LINKEDIN_URL">
